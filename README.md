@@ -1,5 +1,5 @@
-Drag and Drop XBlock v2
-=======================
+Drag and Drop XBlock - v2
+========================
 
 This XBlock implements a friendly drag-and-drop style question, where
 the student has to drag items on zones on a target image.
